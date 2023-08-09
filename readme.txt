@@ -6,3 +6,4 @@ hello
 Creating a new branch is quick and simple.
 add merge
 something wait to do...
+debug
